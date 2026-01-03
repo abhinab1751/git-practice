@@ -41,3 +41,5 @@ Note : The name of the remote connection is always used to establish communicati
 
 16.'git add .'= this command will add all the files from the working repo to staging area
 
+17.'git pull <remote name> <branch name>' = Downloads latest chages of the mentioned remote in your local repo.
+

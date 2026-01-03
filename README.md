@@ -43,3 +43,9 @@ Note : The name of the remote connection is always used to establish communicati
 
 17.'git pull <remote name> <branch name>' = Downloads latest chages of the mentioned remote in your local repo.
 
+### Recommended practice to do
+    - make changes
+    -git add <files>
+    -git commit 
+    -git pull 
+    -git push

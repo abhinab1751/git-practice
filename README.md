@@ -31,7 +31,7 @@ for each otherwise
 12.'git remote add <name of remote> <link of the remote>' = this command helps us to add a new link to the remote repositories
 and give a name to it
 
-13. 'git remote rm <name of remote >' = this command deletes a remote connection
+13. 'git remote rm <name of remote >' = this command deletes a remote connection.
 
 14. 'git remote rename <olanme> <newname>' = this command renames rhe remote connection
 

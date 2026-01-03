@@ -53,3 +53,4 @@ Note : The name of the remote connection is always used to establish communicati
 less see
 
 18. merge conflicts can occur if multiple people try to make cahnges to the same file , and them collaborate
+18. merge commits are very common scenerio

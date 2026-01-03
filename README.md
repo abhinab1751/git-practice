@@ -51,3 +51,5 @@ Note : The name of the remote connection is always used to establish communicati
     -git push
 
 less see
+
+18. merge commits are very common scenerio

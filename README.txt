@@ -17,7 +17,23 @@ by line ,  we can restore it or you can say restore last clean verion of the fil
 7.'git restore --staged <files>' = it removes file from changes from staging area to the working area.
 this only works if changes are inn your staging area
 
-bhaii add hojaa yrr
+8. Diff between rm and git restore 
+ans : if you want to move the whole file back to the untracked state, then we do git rm , 
+otherwise if we just want the changes to be moved in working areas or staged area then we do git restore
 
-kyaaa ree chokeee
-2 chokeee
+9. 'git commit -m' = If we want to avoid opening a text editor like vim/nano to add commit mesage we can use this following command
+
+10.'git remote' = list down all the remote connection names
+
+11. Remote connection = It helps you to link two git repositories for uploading and downloading changes 
+for each otherwise
+
+12.'git remote add <name of remote> <link of the remote>' = this command helps us to add a new link to the remote repositories
+and give a name to it
+
+13. 'git remote rm <name of remote >' = this command deletes a remote connection
+
+14. 'git remote rename <olanme> <newname>' = this command renames rhe remote connection
+
+Note : The name of the remote connection is always used to establish communication between the repositories
+
